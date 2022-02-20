@@ -1,4 +1,4 @@
-# SAE2.06
+# SAE 2.06: Escape Game 
 
 ## Présentation 
 
